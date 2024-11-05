@@ -23,7 +23,7 @@ const soikat = {
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/azs06)
+![Profile views](https://komarev.com/ghpvc/?username=azs06)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azs06&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
