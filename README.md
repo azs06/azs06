@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Md. Atiquzzaman Soikat </h1>
 
-<p>Lead Developer at <a href="https://www.skipperhospitality.com/">Skipper Hospitality</a> 🎩
 </br>Co-Founder and CTO <a href="https://www.reformedtech.org">ReformedTech</a> 🚀 
 </p>
 
