@@ -10,6 +10,8 @@
 
 ### A little more about me...  
 
+Results-driven Senior Software Engineer with 10+ years of experience designing and developing high-performance applications. Adept at leading teams, architecting scalable solutions, and mentoring developers. Passionate about open-source contributions, performance optimization, and accessibility.
+
 ```javascript
 const soikat = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS', 'Python', 'Java', 'Go'],
