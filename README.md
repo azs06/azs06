@@ -31,14 +31,7 @@ const soikat = {
 ![Profile views](https://komarev.com/ghpvc/?username=azs06)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azs06&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=azs06&column=7&theme=gruvbox&no-frame=true"/>
-</details>
-  
-
+   
 <p align="left">
   <img width="50%" src="https://github-streak.soikathome.xyz/streak/azs06?" />
 </p> 
