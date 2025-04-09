@@ -12,8 +12,12 @@
 
 ```javascript
 const soikat = {
-  code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS', 'Python', 'Java'],
-  tools: ['React', 'React Native', 'Redux', 'Node', 'Vue', '11ty', 'Jest', 'Docker'],
+  code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS', 'Python', 'Java', 'Go'],
+  frameworks: ['React', 'React Native', 'Redux', '11ty', 'Jest', 'Docker', 'Svelte', 'Express.js', 'Django', 'Laravel'],
+  database: ['MySQL', 'MongoDB', 'PostgreSQL', 'Supabase', 'Firebase'],
+  tools: [ 'Node', 'Deno', 'npm', 'pnmp'],
+  devops: ['CI/CD', 'Docker'],
+  cloud: ['AWS', 'Firebase Cloud', 'CloudFlare', 'Digital Ocean', 'Hetzner']
   architecture: ["microservices", "event-driven", "design system pattern", "jamstack"],
 }
 ```
