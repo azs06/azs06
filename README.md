@@ -34,6 +34,5 @@ const soikat = {
   
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azs06&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-streak.soikathome.xyz/streak/azs06?" />
+  <img width="50%" src="https://github-streak.soikathome.xyz/streak/azs06?" />
 </p> 
