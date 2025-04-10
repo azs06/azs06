@@ -15,11 +15,11 @@ Results-driven Senior Software Engineer with 10+ years of experience designing a
 ```javascript
 const soikat = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS', 'Python', 'Java', 'Go'],
-  frameworks: ['React', 'React Native', 'Redux', '11ty', 'Jest', 'Docker', 'Svelte', 'Express.js', 'Django', 'Laravel'],
+  frameworks: ['React', 'React Native', 'Redux', '11ty', 'Jest', 'vitest' 'Docker', 'Svelte', 'Express.js', 'Django', 'Laravel'],
   database: ['MySQL', 'MongoDB', 'PostgreSQL', 'Supabase', 'Firebase'],
-  tools: [ 'Node', 'Deno', 'npm', 'pnmp'],
+  tools: [ 'Node', 'Deno', 'npm', 'pnmp', 'vite'],
   devops: ['CI/CD', 'Docker'],
-  cloud: ['AWS', 'Firebase Cloud', 'CloudFlare', 'Digital Ocean', 'Hetzner']
+  cloud: ['AWS', 'Firebase Cloud', 'CloudFlare', 'Digital Ocean', 'Hetzner'],
   architecture: ["microservices", "event-driven", "design system pattern", "jamstack"],
 }
 ```
