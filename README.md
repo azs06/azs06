@@ -32,6 +32,4 @@ const soikat = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azs06&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
    
-<p align="left">
-  <img width="50%" src="https://github-streak.soikathome.xyz/streak/azs06?" />
-</p> 
+
