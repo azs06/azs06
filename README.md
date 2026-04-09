@@ -54,7 +54,7 @@
 
 ---
 
-> "Ship it, measure it, improve it." — I build products that solve real problems, then iterate until they're great.
+> The only person you are destined to become is the person you decide to be. — Ralph Waldo Emerson
 
 <details>
 <summary>A bit more about me</summary>
